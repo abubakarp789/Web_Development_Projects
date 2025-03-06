@@ -20,39 +20,16 @@ This repository serves as my professional portfolio, featuring a diverse range o
 
 ## 🛠️ Technologies Used
 
-### Frontend
-- HTML5
-- CSS3/SCSS
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- Vue.js
-- Bootstrap
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- GraphQL
-
-### Database
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Development Tools
-- Git & GitHub
-- VS Code
-- npm/yarn
-- Webpack
-- Babel
-
-### Testing & Deployment
-- Jest
-- Cypress
-- Docker
-- CI/CD pipelines
+| Frontend | Backend | Database | Development Tools | Testing & Deployment |
+|----------|---------|-----------|-------------------|---------------------|
+| HTML5 | Node.js | MongoDB | Git & GitHub | Jest |
+| CSS3/SCSS | Express.js | MySQL | VS Code | Cypress |
+| JavaScript (ES6+) | RESTful APIs | PostgreSQL | npm/yarn | Docker |
+| React.js | GraphQL | | Webpack | CI/CD pipelines |
+| Next.js | | | Babel | |
+| Vue.js | | | | |
+| Bootstrap | | | | |
+| Tailwind CSS | | | | |
 
 ## 💻 Getting Started
 
